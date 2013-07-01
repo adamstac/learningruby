@@ -49,7 +49,7 @@ Check out the [create_repository](http://rdoc.info/gems/octokit/Octokit/Client/R
 
 ## Your new repo
 
-Congratulations! Head to to GitHub and check out your new repo.
+Congratulations! Head to GitHub and check out your new repo.
 
 ## Further exploration
 
